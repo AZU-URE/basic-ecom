@@ -1,0 +1,50 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "apple iphone",
+            "cost": 5700,
+            "quantity": 0
+        },
+        {
+            "id": 2,
+            "name": "samsung",
+            "cost": 400,
+            "quantity": 0
+        },
+        {
+            "id": 3,
+            "name": "cricket set",
+            "cost": 57,
+            "quantity": 0
+        },
+        {
+            "id": 4,
+            "name": "teeths",
+            "cost": 200,
+            "quantity": 0
+        },
+        {
+            "id": 5,
+            "name": "condom",
+            "cost": 15,
+            "quantity": 0
+        },
+        {
+            "id": 6,
+            "name": "babies",
+            "cost": 800000,
+            "quantity": 0
+        }
+    ],
+    "users": [
+        {
+            "email": "admin@test.com",
+            "password": "password"
+        },
+        {
+            "email": "admin@test.com",
+            "password": "admin123"
+        }
+    ]
+}
